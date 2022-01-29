@@ -14,9 +14,18 @@ The interesting part was that in Rural, the total  number of rides and the total
 the average fare per ride were the highest. In Urban, the total number of rides and the total number of drivers were very much higher than the other 2 city types', which 
 resulted in the total fares to be very high even though the average fare per ride and the average fare per driver were lower than others'.  
 
+The average fare per ride in Urban was $24 and it was $35 in Rural, almost $10 difference. 
+The average fare per driver in Urban was $17 and the average fare per driver in Rural was $55 which is triple more expensive!
+
 ![multiline_graph](PyBer_fare_summary.png)
 
 This multi-line graph is such an impacting graph because you can see right away that the total fare ($) in Urban was the highest and in Rural was the lowest. 
- 
+Total fare in Urban was between $1,500 and $2,500 and the total fare in Rural was between $0 and $500.
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results, I would recommend to the CEO that they might want to see this report and plan various things.
+First, they can plan to expand the business in Rural cities by lowering the average fare per ride, so people would want to use the ride shares more. 
+Second, for Rural cities, they should hire more drivers and plan to do my first recommendation since they have very low number on the total drivers and 
+people would think that it would be very hard to get the ride share service. When people know that there is a lot of drivers in their cities, more people will use
+the ride share for their convenience and lowering average fare per ride would help as well.
+Third, 
