@@ -25,7 +25,8 @@ Total fare in Urban was between $1,500 and $2,500 and the total fare in Rural wa
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 Based on the results, I would recommend to the CEO that they might want to see this report and plan various things.
 First, they can plan to expand the business in Rural cities by lowering the average fare per ride, so people would want to use the ride shares more. 
-Second, for Rural cities, they should hire more drivers and plan to do my first recommendation since they have very low number on the total drivers and 
-people would think that it would be very hard to get the ride share service. When people know that there is a lot of drivers in their cities, more people will use
-the ride share for their convenience and lowering average fare per ride would help as well.
+The average fare per ride is very high, so if I lived in that area, I wouldn't want to use the service. Instead, I would just drive. 
+Second, for Rural cities, they should hire more drivers since they have very low number on the total drivers and people would think that it would be very hard 
+to get the ride share service. When people know that there is a lot of drivers in their cities, more people will use the ride share for their convenience 
+and lowering average fare per ride would help as well.
 Third, 
