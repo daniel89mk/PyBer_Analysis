@@ -22,7 +22,9 @@ The average fare per driver in Urban was $17 and the average fare per driver in 
 This multi-line graph is such an impacting graph because you can see right away that the total fare ($) in Urban was the highest and in Rural was the lowest. 
 Total fare in Urban was between $1,500 and $2,500 and the total fare in Rural was between $0 and $500.
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: 
+### Three business recommendations to the CEO for addressing any disparities among the city types.
+
 Based on the results, I would recommend to the CEO that they might want to see this report and plan various things.
 
 First, they can plan to expand the business in Rural cities by lowering the average fare per ride, so people would want to use the ride shares more. 
